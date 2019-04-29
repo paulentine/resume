@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# CS50
+- project: edX - CS50, Harvard University
+  # role: 
+  duration: C, Python, SQL, computer science fundamentals
+  url: "https://www.edx.org/course/cs50s-introduction-to-computer-science"
+  description: My implementation of a spell checker (final problem set in C) ranked among the top 100 leaderboard. Stepping into dynamically-typed Ruby & Python from strongly-typed C has allowed me fond appreciation fort both.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# FCC & Codecademy
+- project: FreeCodeCamp & Codecademy
+  # role: 
+  duration: HTML5, CSS, Bootstrap, Basic JavaScript, Intro to JQuery 
+  # url: "https://www.freecodecamp.org/"
+  description: Self-learning transition towards tech, with the end goal of full-stack proficiency.
+
+# Smash-N-Dash
+- project: Smash-N-Dash
+  # role: 
+  duration: Java, mySQL
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Set up Point of Sales system for the restaurant, running on mySQL, based on an open source program. Picked up some Java to write custom scripts, including support for peripheral kitchen and bar printers.

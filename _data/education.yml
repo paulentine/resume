@@ -1,13 +1,10 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Science, Psychology - Concentration&#58; Clinical & Neuro
+  uni: University of California, San Diego
+  year: 2008
+  # award: Dean's List
+  summary: <ul><li>Psi Chi Honors Society for Psychology&#58; Webmaster 2007-2008</li><li>San Diego Indonesian Association&#58; Vice President 2006-2008</li><li>Rho Delta Chi (Asian awareness)&#58; Vice President of Community Service & Webmaster 2007-2008</li><li>Studied abroad in University of Cambridge, U.K., Pembroke College</li></ul>
 
-- degree: High School Diploma
-  uni: Springfield High School
+- degree: GCSE 
+  uni: Tanjong Katong Secondary School, Singapore
   year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
