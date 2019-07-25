@@ -6,7 +6,7 @@
   # role: 
   duration: C, Python, SQL, computer science fundamentals
   url: "https://www.edx.org/course/cs50s-introduction-to-computer-science"
-  description: My implementation of a spell checker (final problem set in C) ranked among the top 100 leaderboard. Stepping into dynamically-typed Ruby & Python from strongly-typed C has allowed me fond appreciation fort both.
+  description: My implementation of a spell checker (final problem set in C) ranked among the top 100 leaderboard. Stepping into dynamically-typed Ruby & Python from strongly-typed C has allowed me fond appreciation for both.
 
 # FCC & Codecademy
 - project: FreeCodeCamp & Codecademy
